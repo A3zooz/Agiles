@@ -268,10 +268,7 @@ We have four main users in our website:
 
 - create a new course and fill in all its details inclding title, subtitles, price and short summary about the entire course
 ![createCourse](https://user-images.githubusercontent.com/73742471/210179199-c6a17f2e-762c-4042-bb86-df3e4cdc180d.png)
-- upload a video link from YouTube under each subtitle and enter a short description of the video
-![upload video](https://user-images.githubusercontent.com/73742471/210179239-250dcfba-fd3a-4486-8ae4-48de32916c74.png)
-- upload a video link from YouTube as a preview to the course
-![upload preview](https://user-images.githubusercontent.com/73742471/210179221-4c03f097-ca4a-4309-92e4-2a6533dccc89.png)
+
 
 - create a multiple choice exam with 4 choices per question
 <img width="797" alt="image" src="https://user-images.githubusercontent.com/57245606/210162174-a9e4ab94-048d-4f8a-9f46-dc9c4afd6f0a.png">
@@ -300,9 +297,7 @@ We have four main users in our website:
 
 ### Individual Trainee & Corporate Trainee
 
-- open all the items inside a course he/she is registered for including videos and excercises
-![5](https://user-images.githubusercontent.com/83594429/210186338-7ccccfda-d019-4e29-881a-70151b7e66ae.PNG)
-![05](https://user-images.githubusercontent.com/83594429/210186323-07f5f60b-dc24-43b3-84ce-9f98967df638.PNG)
+
 - rate an instructor 
 ![6](https://user-images.githubusercontent.com/83594429/210186351-b82f7012-57ca-42b8-8169-e2bc54056064.PNG)
 - rate a course
